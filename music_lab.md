@@ -6,11 +6,11 @@ You have been asked to create an app that will allow a music collector to manage
 
 In their console they would like to be able to:
 
-* Create and Save Artists
-* Create and Save Albums
-* List All Artists/Albums
-* List all the albums they have by an artist
-* Show the artist any album belongs to
+* Create and Save Artists [DONE]
+* Create and Save Albums [DONE]
+* List All Artists/Albums [DONE]
+* List all the albums they have by an artist [DONE]
+* Show the artist any album belongs to [DONE]
 
 Every artist should have a name, and each album should have a name/title, genre and artist ID.
 
