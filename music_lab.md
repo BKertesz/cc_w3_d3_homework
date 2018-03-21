@@ -18,7 +18,7 @@ Every artist should have a name, and each album should have a name/title, genre 
 
 Additionally it would be nice to be able to:
 
-* Edit Artists/Albums
+* Edit Artists/Albums [DONE]
 * Delete Artists/Albums
 * Find Artists/Albums by their ID
 
